@@ -19,3 +19,4 @@ Accuracy_test : 0.8586783439490446
 + Mô hình cải tiến: Convolutional Neural Network
 Testing_error : 0.185975147565459
 Accuracy_test : 0.9328224522292994
+đsds

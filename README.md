@@ -9,7 +9,17 @@ Tác giả của Fashion-MNIST cho rằng cần phải thay thế MNIST vì:
 + MNIST được sử dụng quá nhiều đến mức nhàm chán.
 + MNIST không đại diện cho các bài toán computer vision hiện đại.
 
-## Xây dựng kiến trúc mô hình
+## Quá trình xây dựng giải pháp
+Notebook thực hiện theo các bước:
+Bước 1: Chuẩn bị dữ liệu
+
+Bước 2: Xây dựng kiến trúc mô hình
+
+2.1) Mô hình Baseline: Multi Layer Perceptron
+
+2.2) Mô hình cải tiến: Convolutional Neural Network
+
+Bước 3: Đánh gía kết quả mô hình trên tập test
 
 ## Báo cáo kết quả
 + Mô hình Baseline: Multi Layer Perceptron
@@ -19,4 +29,3 @@ Accuracy_test : 0.8586783439490446
 + Mô hình cải tiến: Convolutional Neural Network
 Testing_error : 0.185975147565459
 Accuracy_test : 0.9328224522292994
-đsds
